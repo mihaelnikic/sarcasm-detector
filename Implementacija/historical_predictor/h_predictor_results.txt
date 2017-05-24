@@ -1,0 +1,2 @@
+h:240400699110875136;Dear Teva, thank you for waking me up every few hours by howling. Your just trying to be mother natures alarm clock. #sarcasm;tweet_polarity:POSITIVE;NNP:Dear Teva;Your;h_tweet:Your more of a fool then I thought you were.;tweet_polarity:POSITIVE;predicted:True
+h:240400699110875136;Dear Teva, thank you for waking me up every few hours by howling. Your just trying to be mother natures alarm clock. #sarcasm;tweet_polarity:POSITIVE;NNP:Dear Teva;Your;h_tweet:Your more of a fool then I thought you were.;tweet_polarity:POSITIVE;predicted:True
