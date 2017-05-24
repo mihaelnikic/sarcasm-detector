@@ -7,7 +7,7 @@ Precedes You: Using an author's
 historical tweets to predict
 sarcasm’. Original paper was written in English, and reimplementation paper in Croatian. Both papers can be found in `docs` folder.
 
-** Abstact: **
+### Abstact:
 
 Sarcasm understanding may require information beyond the text itself, as in the
 case of ‘I absolutely love this restaurant!’
