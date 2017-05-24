@@ -6,10 +6,8 @@ import pprint
 import re
 from nltk.tokenize import TweetTokenizer
 
-CONSUMER_KEY = "qGWa0auDtpVJXx1LaZQspsVWe"
-CONSUMER_SECRET = "scSr5x4R1u7w7KAoQ47J8xG1J0nUozhpowzzjNPO2DYuD89plg"
-OAUTH_TOKEN = "846031238813171713-5ywVPWAEPNDBlVnO6ReosjvAcTn5K3v"
-OAUTH_TOKEN_SECRET = "1itTLCn9ytm6L0UNeHWObgaofsk4qE62cHyHvxSa1nBRH"
+# load twitter api credentials
+from mnikic_twitter_login import *
 
 
 class TwitterExtractor:
