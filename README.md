@@ -25,7 +25,7 @@ the past).
 The architecture of reimplemented sarcasm detector takes as input the text of a
 tweet and the author, and predicts the output as either sarcastic or non-sarcastic.
 
-![](assets/arh_resized)
+![](assets/arh_resized.png)
 
 
 This is a rule-based
