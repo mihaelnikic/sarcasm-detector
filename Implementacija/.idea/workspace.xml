@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73aab85c-f40b-42d2-8ee3-02729276edd8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dataset/Test dataset/Untitled.ipynb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/Training dataset/.ipynb_checkpoints/Training-Set-Downloader-checkpoint.ipynb" afterPath="$PROJECT_DIR$/dataset/Training dataset/.ipynb_checkpoints/Training-Set-Downloader-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dataset/Training dataset/Training-Set-Downloader.ipynb" afterPath="$PROJECT_DIR$/dataset/Training dataset/Training-Set-Downloader.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/historical_predictor/twitter_extractor.py" afterPath="$PROJECT_DIR$/historical_predictor/twitter_extractor.py" />
-    </list>
+    <list default="true" id="73aab85c-f40b-42d2-8ee3-02729276edd8" name="Default" comment="" />
     <ignored path="Implementacija.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -235,7 +229,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="-14" />
-    <option name="width" value="3200" />
+    <option name="width" value="1600" />
     <option name="height" value="1814" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -287,24 +281,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Implementacija" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Implementacija" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sentiment140" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -868,10 +844,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-14" width="3200" height="1814" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="-14" width="1600" height="1814" extended-state="4" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37821338" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.77843916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298292" sideWeight="0.5025707" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
